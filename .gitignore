@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+CSV File
+salesdata.csv
+
 # C extensions
 *.so
 
